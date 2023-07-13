@@ -1,2 +1,2 @@
-# exvariaveis
-Exercícios de variáveis
+# arrayseloops
+Exercícios de arrays e loops.
